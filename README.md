@@ -10,7 +10,7 @@ MiniMax Algorithm Tic Tac Toe
   </a>
   
 
-<h3 align="center">Tic_Tac_Toe MiniMax Algorithm Tic Tac Toe </h3>
+<h3 align="center">Tic_Tac_Toe MiniMax Algorithm </h3>
   <p align="center">
     Project With Java 
     <br/>
