@@ -39,7 +39,7 @@
 
 </p>
 
-Britannica Dictionary definition of TIC–TAC–TOE. [noncount] US. : a game in which one player draws Xs and another player draws Os inside a set of nine squares and each player tries to be the first to fill a row of squares with either Xs or Os. — called also (British) noughts and crosses.
+* Britannica Dictionary definition of TIC–TAC–TOE. [noncount] US. : a game in which one player draws Xs and another player draws Os inside a set of nine squares and each player tries to be the first to fill a row of squares with either Xs or Os. — called also (British) noughts and crosses.
 
 
 ## Contributing
