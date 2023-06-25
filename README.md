@@ -31,11 +31,11 @@
  <br/>
 
 <p >
- <img src="https://i.imgur.com/ifa3gHp.png" alt="project(photo)" width="163" height="150">
- <img src="https://i.imgur.com/Wv0QW1q.png" alt="project(run)" width="163" height="150">
- <img src="https://i.imgur.com/G5VTOlv.png" alt="project(xo)" width="163" height="150">
- <img src="https://i.imgur.com/97qUk8C.png" alt="project(photo)" width="163" height="150">
- <img src="https://i.imgur.com/AnAL3i6.png" alt="project(minimax)" width="164" height="150">
+ <img src="https://i.imgur.com/ifa3gHp.png" alt="project(photo)" width="162" height="150">
+ <img src="https://i.imgur.com/Wv0QW1q.png" alt="project(run)" width="162" height="150">
+ <img src="https://i.imgur.com/G5VTOlv.png" alt="project(xo)" width="162" height="150">
+ <img src="https://i.imgur.com/97qUk8C.png" alt="project(photo)" width="162" height="150">
+ <img src="https://i.imgur.com/AnAL3i6.png" alt="project(minimax)" width="162" height="150">
 
 </p>
 
